@@ -1,2 +1,3 @@
-# Login-Register-Form
-This is a simple Login and Register Page Using HTML CSS and JavaScript
+# Login-Form
+
+This is a login Form Using java as backend (Spring Framework) and React js as Frontend
